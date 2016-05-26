@@ -1,0 +1,68 @@
+{
+  "dotNumber": 1639926,
+  "docketNumber": 2323232,
+  "docketNumberPrefix": "MC",
+  "operationTypeCode": "A",
+  "operationClass": "",
+  "legalName": "CABRERA LOGISTICS INC",
+  "alternativeName": null,
+  "address": {
+    "line1": "2050 HAWTHORNE AVE",
+    "line2": "",
+    "line3": "",
+    "city": "MELROSE PARK",
+    "state": "IL",
+    "postalCode": "60007"
+  },
+  "phone": "+17083434715",
+  "numberOfDrivers": 12,
+  "isAllowedToOperate": true,
+  "snapshotTimestamp": 1458878400000,
+  "authority": {
+    "commonAuthorityStatus": "N",
+    "brokerAuthorityStatus": "N",
+    "contractAuthorityStatus": "A",
+    "isAuthorizedForProperty": true,
+    "isAuthorizedForPassenger": false,
+    "isAuthorizedForBroker": false,
+    "isAuthorizedForHouseholdGoods": false
+  },
+  "insurance": {
+    "isBipdRequired": false,
+    "bipdRequiredAmount": 750000,
+    "bipdInsuranceOnFile": 10000,
+    "isCargoInsuranceRequired": false,
+    "cargoInsuranceOnFile": 18000,
+    "isBondInsuranceRequired": true,
+    "bondInsuranceOnFile": 18000
+  },
+  "inspection": {
+    "numberOfDriverInspectionInPastTwoYears": 12,
+    "numberOfDriverOutOfServiceInspectionInPastTwoYears": 23,
+    "rateOfDriverOutOfServiceInPastTwoYears": 0.23,
+    "numberOfVehicleInspectionInPastTwoYears": 23,
+    "numberOfVehicleOutOfServiceInspectionInPastTwoYears": 23,
+    "rateOfVehicleOutOfServiceInPastTwoYears": 232,
+    "numberOfHazmatInspectionInPastTwoYears": 23,
+    "numberOfHazmatOutOfServiceInspectionInPastTwoYears": 23,
+    "rateOfHazmatOutOfServiceInspectionInPastTwoYears": 32
+  },
+  "outOfService": {
+    "outOfServiceRateNationalAverageYear": "2009-2010",
+    "rateOfVehicleOutOfServiceNationalAverage": 0.20,
+    "rateOfDriverOutOfServiceNationalAverage": 0.33,
+    "rateOfHazmatOutOfServiceNationalAverage": 0.22,
+    "outOfServiceDate": "2010-12-23"
+  },
+  "safety": {
+    "rating": "S",
+    "ratingDate": "2012-10-17",
+    "reviewType": "C",
+    "reviewDate": "2012-10-17",
+    "numberOfTotalCrash": 7,
+    "numberOfFatalCrash": 7,
+    "numberOfInjuryCrash": 7,
+    "numberOfTowAwayCrash": 7,
+    "numberOfTotalPowerUnits": 2
+  }
+}

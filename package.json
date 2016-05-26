@@ -1,0 +1,17 @@
+{
+  "name": "loxhub-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.4.14",
+    "nightmare": "^2.3.1",
+    "request-promise": "^3.0.0",
+    "vo": "^3.1.1"
+  }
+}
